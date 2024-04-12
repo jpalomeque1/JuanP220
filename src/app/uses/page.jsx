@@ -50,7 +50,7 @@ export default function Uses() {
           <section className="intro">
             <AboutMe
               name={'Software I use, gadgets I love, and other things I recommend.'}
-              content4={'Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..'}
+              content4={'Below are some tools and software i used and look forward to using ..'}
             />
           </section>
           <section className="uses-container">
@@ -61,23 +61,23 @@ export default function Uses() {
               <div className="items-container">
                 <Usescard
                   name="Custom-built PC "
-                  content1="Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                  content1="A personally assembled computer tailored to specific requirements or preferences..."
                 />
                 <Usescard
                   name="Apple Mac Pro"
-                  content1="Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                  content1="A high-performance desktop computer designed for professional users, known for its sleek design and powerful capabilities..."
                 />
                 <Usescard
                   name="Dell XPS Tower"
-                  content1="Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                  content1="A reliable and customizable desktop workstation offering impressive performance and modern design..."
                 />
                 <Usescard
                   name="Lenovo ThinkStation"
-                  content1="Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                  content1=" A robust and reliable workstation built for professional tasks, known for its stability and efficiency..."
                 />
                 <Usescard
                   name="HP Z Workstation"
-                  content1="Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                  content1=" A top-tier workstation renowned for its reliability, performance, and scalability, ideal for demanding computing tasks...."
                 />
               </div>
             </section>

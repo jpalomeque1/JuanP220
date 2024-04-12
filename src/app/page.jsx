@@ -110,9 +110,9 @@ export default function Home() {
         <div className="main-container">
           <section className="intro">
             <IntroCard
-              name={'Software Engineer, Father, and Believer'}
-              logo={'mrbean.png'}
-              content={'Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..'}
+              name={'Software Engineer'}
+              logo={'Me.png'}
+              content={'As a future software engineer currently in school, I exhibit a keen analytical mind coupled with a passion for problem-solving. My dedication to mastering coding languages and frameworks is evident in my meticulous approach to projects and assignments.'}
             />
           </section>
           <section className="articles-widgets-container">

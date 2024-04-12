@@ -49,39 +49,39 @@ export default function Projects() {
         <div className="main-container">
           <section className="intro">
             <ProjectPageIntro
-              name={"Things I’ve made trying to put my dent in the universe."}
+              name={"Things I look forward to working on"}
               content={
-                "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+                "Once I graduate, I eagerly anticipate delving into projects that align with both my professional aspirations and personal interests. Specifically, I am excited about the prospect of merging my passion for shooting, camping, and golf with my expertise in web development. This intersection presents a unique opportunity to not only contribute to the field of software engineering but also to indulge in activities that bring me joy and fulfillment. By immersing myself in projects that cater to these hobbies, I envision a holistic approach to my work, where creativity and innovation thrive alongside technical proficiency. Through these endeavors, I aim to cultivate a fulfilling career that seamlessly integrates my professional skills with my personal passions, thereby enriching both my professional and personal life..."
               }
             />
           </section>
           <section className="project-card-container">
               <ProjectCard
                 logo="logo.png"
-                name="Mr.Bean & Co."
-                content="Creating technology to empower civilians to explore space on their own terms"
+                name="D.O.P.E."
+                content="Data On Previous Engagement includes factors like bullet trajectory, wind conditions, and insights from previous engagements, meticulously recorded and analyzed to facilitate precise and effective long-range shots. "
                 link="https://ensign.edu"
               />
               <ProjectCard
                 logo="logo.png"
-                name="Mr.Bean inc"
-                content="Creating technology to empower civilians to explore space on their own terms"
+                name="Maintenance tracker "
+                content="Keep Track of oyu cars maintenance and repairs"
                 link="https://ensign.edu"
               />
               <ProjectCard
-                logo="microsoft.png"
-                name="MS"
-                content="Creating technology to empower civilians to explore space on their own terms"
+                logo="logo.png"
+                name="Camp review"
+                content="Create a community of campers to share their experience and review campsites"
                 link="https://ensign.edu"
               />
               <ProjectCard
-                logo="slack.png"
-                name="Slack"
-                content="Creating technology to empower civilians to explore space on their own terms"
+                logo="logo.png"
+                name="Golf Buddy"
+                content="Create a community of golfers to share their experience and review"
                 link="https://www.ensign.edu/"
               />
               <ProjectCard
-                logo="microsoft.png"
+                logo="linkedIn.png"
                 name="LinkedIn "
                 content="Creating technology to empower civilians to explore space on their own terms"
                 link="https://ensign.edu"
